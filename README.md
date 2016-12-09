@@ -1,2 +1,2 @@
 # NBCC-PHP-Web-Store
-Web Store template project enhanced with PHP for the NBCC course, Server-Side Web Developement, in 2013.
+Web Store template enhanced in PHP on Apache Server for the 2013 NBCC course, Server-Side Web Developement.
